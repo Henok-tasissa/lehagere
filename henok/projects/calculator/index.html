@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style/bootstrap.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+		
+		.wrapper{
+			max-width:385px;
+			margin: 10px auto;
+		}
+		.hdr{
+			width: 98%;
+			margin: 5px auto;
+		}
+		button{
+			border:2px solid orange;
+			padding: 5px;
+			width:24%;
+			margin-top: 15px;
+		}
+		button:hover{
+			cursor:pointer;
+		}
+		.left{
+			float: left;
+			width:70%;
+			height:60px;
+			display:inline-block;
+			margin-top:10px;
+			margin-left:10px;
+			box-shadow: 2px 2px 6px -1px orange;
+		}
+		.left p{
+			padding: 5px;
+		}
+
+		.right{
+			float:right;
+			width:23%;
+			height:70px;
+			display:inline-block;
+		}
+		.del{
+			width:100%;
+			margin-top: 20px;
+		}
+		@media only screen and (max-width: 600px) {
+          .wrapper{
+    			width:100%;
+    			margin: 10px auto;
+    		}
+        }
+		</style>
+	</head>
+	<body>
+	<div class="wrapper">
+		<div class="hdr">
+			<div class="left">
+				<p class="box"></p>
+			</div>
+			<div class="right" >
+				<button class="del" value="del">Del</button>
+			</div>
+		</div>
+		<div>
+			<button value="7">7</button>
+			<button value="8">8</button>
+			<button value="9">9</button>
+			<button value="+">+</button>
+		</div>
+		<div>
+			<button value="4">4</button>
+			<button value="5">5</button>
+			<button value="6">6</button>
+			<button value="-">-</button>
+		</div>
+		<div>
+			<button value="1">1</button>
+			<button value="2">2</button>
+			<button value="3">3</button>
+			<button value="*">*</button>
+		</div>
+		<div>
+			<button value=".">.</button>
+			<button value="0">0</button>
+			<button value="=">=</button>
+			<button value="/">/</button>
+		</div>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/main.js"></script>
+	</body>
+</html>

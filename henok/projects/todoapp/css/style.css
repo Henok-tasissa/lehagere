@@ -1,0 +1,224 @@
+/* 
+    Henok Tasissa
+ */
+body{
+    background-color:#F6F1D6;
+    margin:0;
+}
+header{
+    width: 99%;
+    background-color:#04756F;
+    border: 2px solid white;
+    box-shadow: 0px 0px 16px black;
+    margin: 0px auto;
+    position: fixed;
+    top:0;
+}
+.logo{
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+.headerButtons{
+    display: flex;
+    margin-top: 90px;
+}
+.headerButtons>div:hover{
+    background-color:black;
+    color:white;
+    cursor:pointer;
+}
+.headerButtons>div{
+    flex:1;
+    font-size:20px;
+    margin: 7px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #04756F;
+    color:white;
+    border: 2px solid white;
+    box-shadow: 0px 0px 16px black;
+}
+#todoAddPage,#todoUpdatePage{
+    width: 94%;
+    margin: 10px auto;
+    border: 2px solid white;
+    box-shadow: 0px 0px 16px black;
+    border-radius: 7px;
+}
+#todoAddPage>p,#todoUpdatePage>p{
+    text-align: center;
+    font-size: 30px;
+    padding: 0px;
+    font-weight: 600;
+    font-style: italic;
+    margin: 15px;
+}
+.date-container{
+    padding: 5px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    margin: 3px;
+    display: block;
+    width: 130px;
+    text-align: center;
+}
+#todoAddPage>form>div,#todoUpdatePage>form>div{
+    width: 100%;
+}
+#todoText{
+    width:99%;
+    height:170px;
+    text-indent: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#todoTitle{
+    width:99%;
+    height:50px;
+    text-indent: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.crossed{
+    background-color:rgba(192, 46, 46, 0.76) !important;
+}
+.completed{
+    background-color:lightgreen !important;
+}
+.active{
+    background-color: black !important;
+    color:white !important;
+}
+.hide{
+    display: none;
+}
+.update-todo{
+    text-align: center;
+color: white;
+background-color: orange;
+padding: 5px;
+width: 70%;
+margin: 8px auto;
+border-radius: 5px;
+}
+
+.todo-info{
+    padding:10px;
+    text-align: center;
+    border-radius:5px;
+    background-color:red;
+    margin:10px;
+}
+#todoAddPage>form>div>input[name="todoDate"],#todoUpdatePage>form>div>input[name="todoDate"]{
+    font-size:20px;
+    padding: 5px;
+    margin:5px auto;
+    display: block;
+    width:50%;
+}
+#todoAddPage>form>div>input[type="submit"],#todoUpdatePage>form>div>input[type="submit"]{
+    font-size:20px;
+    padding: 5px;
+    clear:both;
+    margin: 5px auto;
+    text-align: center;
+    width:50%;
+    display: block;
+}
+
+/* View Page */
+#todoViewPage{
+    width:94%;
+    margin:10px auto;
+}
+#todoViewPage>div{
+    border: 2px solid white;
+    box-shadow: 0px 0px 16px black;
+    margin:20px 0px;
+    border-radius: 10px;
+    background-color: white;
+}
+#todoViewPage>div>div{
+    width: 90%;
+    margin:5px auto;
+}
+.todoTitle{
+    text-align: center;
+}
+.todoText{
+    text-indent:10px;
+}
+.todoOptionContainer{
+    display: flex;
+    height: 50px;
+}
+.todoOptionContainer>div{
+    flex:1;
+    margin: 5px;
+    background-color:orange;
+    border-radius: 5px;
+    display: flex;
+}
+.todoOptionContainer>div>a{
+    font-size: 25px;
+    margin: auto auto;
+    padding: 5px 21px;
+    border-radius: 5px;
+    color: white;
+}
+.todoOptionContainer>div>a:hover{
+    background-color: black;
+    color: white;
+}
+
+#statusInfoContainer>ul{
+    margin:0px;
+    padding: 0px
+    margin-left: 50px;
+}
+#statusInfoContainer>ul>li{
+    display: inline-block;
+    padding: 5px;
+    margin:2px;
+    color: white;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+}
+#statusInfoContainer>ul>li:hover{
+    cursor: pointer;
+}
+#statusInfoContainer>ul>li>span{
+    display: inline-block;
+    padding: 6px;
+    background-color:red;
+    border-radius:50%;
+    margin-right: 7px;
+}
+
+
+.ac{
+    background-color:white !important;
+}
+.g{
+    background-color: lightgreen !important;
+}
+
+@media only screen and (min-width: 800px) {
+  body {
+    width:45%;
+    margin:0px auto;
+  }
+  .headerButtons{
+      margin:0px;
+  }
+  header{
+      position:inherit !important;
+  }
+}

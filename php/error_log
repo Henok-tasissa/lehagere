@@ -1,0 +1,98 @@
+[10-Nov-2018 22:39:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'henoktasissa'@'localhost' (using password: YES) in /home3/henoktasissa/public_html/php/database.php on line 3
+[10-Nov-2018 23:27:35 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/view.php on line 6
+[10-Nov-2018 23:27:36 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/view.php on line 6
+[10-Nov-2018 23:28:02 America/Chicago] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home3/henoktasissa/public_html/php/view.php on line 6
+[10-Nov-2018 23:28:02 America/Chicago] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home3/henoktasissa/public_html/php/view.php on line 6
+[17-Nov-2018 00:02:55 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 208
+[17-Nov-2018 00:03:00 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 208
+[17-Nov-2018 00:05:26 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 337
+[17-Nov-2018 00:05:29 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 337
+[17-Nov-2018 00:05:38 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 337
+[17-Nov-2018 00:05:50 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 337
+[17-Nov-2018 09:56:18 America/Chicago] PHP Fatal error:  Call to undefined function deleteUnLikeComment() in /home3/henoktasissa/public_html/php/class/post.class.php on line 543
+[24-Nov-2018 12:41:22 America/Chicago] PHP Fatal error:  Call to undefined function deleteUnLikeComment() in /home3/henoktasissa/public_html/php/class/post.class.php on line 543
+[24-Nov-2018 12:41:32 America/Chicago] PHP Fatal error:  Call to undefined function deleteUnLikeComment() in /home3/henoktasissa/public_html/php/class/post.class.php on line 543
+[24-Nov-2018 12:43:32 America/Chicago] PHP Fatal error:  Call to undefined function deleteUnLikeComment() in /home3/henoktasissa/public_html/php/class/post.class.php on line 543
+[24-Nov-2018 12:46:25 America/Chicago] PHP Fatal error:  Call to undefined function deleteUnLikeComment() in /home3/henoktasissa/public_html/php/class/post.class.php on line 543
+[27-Nov-2018 01:21:31 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 208
+[27-Nov-2018 01:21:32 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 208
+[27-Nov-2018 01:21:37 America/Chicago] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home3/henoktasissa/public_html/php/class/post.class.php on line 208
+[27-Nov-2018 01:31:44 America/Chicago] PHP Fatal error:  Call to undefined function br2nl() in /home3/henoktasissa/public_html/php/class/post.class.php on line 211
+[27-Nov-2018 01:32:50 America/Chicago] PHP Fatal error:  Call to undefined function br2nl() in /home3/henoktasissa/public_html/php/class/post.class.php on line 225
+[27-Nov-2018 01:32:53 America/Chicago] PHP Fatal error:  Call to undefined function br2nl() in /home3/henoktasissa/public_html/php/class/post.class.php on line 225
+[27-Nov-2018 01:33:31 America/Chicago] PHP Fatal error:  Call to undefined function br2nl() in /home3/henoktasissa/public_html/php/class/post.class.php on line 227
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 22
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 26
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 35
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 38
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 29
+[02-Dec-2018 00:24:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 32
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 22
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 26
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 35
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 38
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 29
+[02-Dec-2018 00:24:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 32
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 24
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 30
+[02-Dec-2018 01:21:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 27
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 22
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 26
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 35
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 38
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 29
+[02-Dec-2018 01:48:53 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 32
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 22
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 26
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 35
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 38
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 29
+[02-Dec-2018 01:49:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 32
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 22
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 26
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 35
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 38
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 29
+[02-Dec-2018 01:50:16 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/user.class.php on line 32
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 24
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 30
+[02-Dec-2018 06:46:46 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 27
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 24
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 30
+[02-Dec-2018 06:54:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 27
+[02-Dec-2018 07:03:19 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on null in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:05:18 America/Chicago] PHP Fatal error:  Call to a member function escape_string() on null in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 24
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 30
+[02-Dec-2018 07:05:59 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 27
+[02-Dec-2018 07:07:26 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:07:26 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 07:07:26 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 07:09:24 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:09:24 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 07:09:24 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 07:10:46 America/Chicago] PHP Fatal error:  Call to a member function escape_string() on null in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 15
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 18
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 21
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 24
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 30
+[02-Dec-2018 07:11:37 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 27
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 16
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 19
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 22
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 25
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 31
+[02-Dec-2018 07:14:25 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/henoktasissa/public_html/php/class/post.class.php on line 28
